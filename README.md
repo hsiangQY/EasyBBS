@@ -1,0 +1,2 @@
+# EasyBBS
+small JAVA project
